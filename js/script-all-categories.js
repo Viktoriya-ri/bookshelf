@@ -1,5 +1,5 @@
-const categories = document.querySelector('.all-categories');
+const categories = document.querySelector('.link-categories');
 
+console.log(categories)
 
-const bookCategor = "";
     
